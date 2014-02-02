@@ -57,7 +57,7 @@ my %WriteMakefileArgs = (
     "Test::More" => 0,
     "lib" => 0
   },
-  "VERSION" => "1.001002",
+  "VERSION" => "1.001003",
   "test" => {
     "TESTS" => "t/*.t t/App-PNGCrush/*.t t/CSS-Minifier/*.t t/JavaScript-Minifier/*.t t/Syntax-Highlight-CSS/*.t t/Syntax-Highlight-HTML/*.t t/WWW-Alexa-TrafficRank/*.t t/WWW-Cache-Google/*.t t/WWW-DoctypeGrabber/*.t t/WWW-GetPageTitle/*.t t/WWW-Google-PageRank/*.t t/WWW-HTMLTagAttributeCounter/*.t t/WWW-Lipsum/*.t t/WWW-WebDevout-BrowserSupportInfo/*.t t/WebService-HtmlKitCom-FavIconFromImage/*.t t/WebService-Validator-CSS-W3C/*.t t/WebService-Validator-HTML-W3C/*.t"
   }

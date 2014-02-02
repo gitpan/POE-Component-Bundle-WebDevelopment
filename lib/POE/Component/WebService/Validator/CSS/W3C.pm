@@ -3,7 +3,7 @@ package POE::Component::WebService::Validator::CSS::W3C;
 use warnings;
 use strict;
 
-our $VERSION = '1.001002'; # VERSION
+our $VERSION = '1.001003'; # VERSION
 
 use Carp;
 use URI;
@@ -295,8 +295,7 @@ __END__
 
 =head1 NAME
 
-POE::Component::WebService::Validator::CSS::W3C - non-blocking access
-to CSS validator.
+POE::Component::WebService::Validator::CSS::W3C - non-blocking wrapper around L<WebService::Validator::HTML::W3C>
 
 =head1 SYNOPSIS
 
