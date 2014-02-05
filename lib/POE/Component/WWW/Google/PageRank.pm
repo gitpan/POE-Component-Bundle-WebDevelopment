@@ -3,7 +3,7 @@ package POE::Component::WWW::Google::PageRank;
 use strict;
 use warnings;
 
-our $VERSION = '1.001003'; # VERSION
+our $VERSION = '1.001004'; # VERSION
 
 use POE (qw( Wheel::Run  Filter::Reference  Filter::Line ));
 use Carp;

@@ -22,55 +22,55 @@ name: POE-Component-Bundle-WebDevelopment
 provides:
   POE::Component::App::PNGCrush:
     file: lib/POE/Component/App/PNGCrush.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::Bundle::WebDevelopment:
     file: lib/POE/Component/Bundle/WebDevelopment.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::CSS::Minifier:
     file: lib/POE/Component/CSS/Minifier.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::JavaScript::Minifier:
     file: lib/POE/Component/JavaScript/Minifier.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::Syntax::Highlight::CSS:
     file: lib/POE/Component/Syntax/Highlight/CSS.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::Syntax::Highlight::HTML:
     file: lib/POE/Component/Syntax/Highlight/HTML.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WWW::Alexa::TrafficRank:
     file: lib/POE/Component/WWW/Alexa/TrafficRank.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WWW::Cache::Google:
     file: lib/POE/Component/WWW/Cache/Google.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WWW::DoctypeGrabber:
     file: lib/POE/Component/WWW/DoctypeGrabber.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WWW::GetPageTitle:
     file: lib/POE/Component/WWW/GetPageTitle.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WWW::Google::PageRank:
     file: lib/POE/Component/WWW/Google/PageRank.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WWW::HTMLTagAttributeCounter:
     file: lib/POE/Component/WWW/HTMLTagAttributeCounter.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WWW::Lipsum:
     file: lib/POE/Component/WWW/Lipsum.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WWW::WebDevout::BrowserSupportInfo:
     file: lib/POE/Component/WWW/WebDevout/BrowserSupportInfo.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WebService::HtmlKitCom::FavIconFromImage:
     file: lib/POE/Component/WebService/HtmlKitCom/FavIconFromImage.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WebService::Validator::CSS::W3C:
     file: lib/POE/Component/WebService/Validator/CSS/W3C.pm
-    version: 1.001003
+    version: 1.001004
   POE::Component::WebService::Validator::HTML::W3C:
     file: lib/POE/Component/WebService/Validator/HTML/W3C.pm
-    version: 1.001003
+    version: 1.001004
 requires:
   App::PNGCrush: 0
   CSS::Minifier: 0
@@ -104,7 +104,7 @@ resources:
   bugtracker: https://github.com/zoffixznet/poe-component-bundle-webdevelopment/issues
   homepage: http://metacpan.org/release/POE-Component-Bundle-WebDevelopment
   repository: git://github.com/zoffixznet/poe-component-bundle-webdevelopment.git
-version: 1.001003
+version: 1.001004
 x_Dist_Zilla:
   perl:
     version: 5.014002

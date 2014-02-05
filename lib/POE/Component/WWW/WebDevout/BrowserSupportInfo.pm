@@ -3,7 +3,7 @@ package POE::Component::WWW::WebDevout::BrowserSupportInfo;
 use warnings;
 use strict;
 
-our $VERSION = '1.001003'; # VERSION
+our $VERSION = '1.001004'; # VERSION
 
 use Carp;
 use POE qw(Wheel::Run Filter::Reference Filter::Line);
